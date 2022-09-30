@@ -7,7 +7,7 @@ public class Lab04avst
 {
     public static void main(String[] args)
     {
-        System.out.println("Lab04a, Student Version\n");
+        System.out.println("Lab04a, 100 Point Version\n");
 
         double principal  = 250000;
         double annualRate = 4.85;
