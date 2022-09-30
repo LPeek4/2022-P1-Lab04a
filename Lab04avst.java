@@ -28,20 +28,10 @@ public class Lab04avst
         System.out.println("Principle:         $" + principal);
         System.out.println("Annual Rate:       " + annualRate + "%");
         System.out.println("Number of Years:   " + numYears);
-        System.out.println("Monthyly Payment:  $" + monthPayRound);
+        System.out.println("Monthly Payment:   $" + monthPayRound);
         System.out.println("Total Payments:    $" + TotalPay);
         System.out.println("Total Interest:    $" + TotalInt);
 
-
-
-
-
-
-
-
-
-
-        System.out.println();
     }
 }
 
